@@ -1,25 +1,11 @@
 {
-    "todos": [{
-        "id": 1,
-        "title": "todo1"
-      },
-      {
-        "id": 2,
-        "title": "todo2"
-      },
-      {
-        "id": 3,
-        "title": "todo3"
-      },
-      {
-        "id": 4,
-        "title": "todo4"
-      },
-      {
-        "id": 5,
-        "title": "todo5"
-      }],
-  "profile": {
-    "name": "typicode"
-  }
+    "data": {
+        "users": [
+            {"userid": 1, "username": "JSR", "name": "Juan", "surname": "Sanchez Rodriguez", "dob": "1991-01-12", "isActive": true},
+            {"userid": 1, "username": "PCH", "name": "Pedro", "surname": "Carrasco Hernandez", "dob": "1991-01-12", "isActive": false},
+            {"userid": 1, "username": "LFN", "name": "Lucia", "surname": "Fernandez Nieto", "dob": "1991-01-12", "isActive": true},
+            {"userid": 1, "username": "MGL", "name": "Marta", "surname": "Garcia Lopez", "dob": "1991-01-12", "isActive": true},
+            {"userid": 1, "username": "LAP", "name": "Luis", "surname": "Alcazar Portillo", "dob": "1991-01-12", "isActive": false}
+        ]
+    } 
 }
