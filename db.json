@@ -7,54 +7,55 @@
             {"userid": 1, "username": "MGL", "name": "Marta", "surname": "Garcia Lopez", "dob": "1991-01-12", "isActive": true},
             {"userid": 1, "username": "LAP", "name": "Luis", "surname": "Alcazar Portillo", "dob": "1991-01-12", "isActive": false}
         ],
-        "task": [{
-                  taskid: 1,
-                  type: 'Task',
-                  creation: '16-02-2020',
-                  modify: '16-02-2020',
-                  priority: 'High',
-                  dificulty: 'Intermediate',
-                  status: 'To do',
-                  isDone: true,
-                  taskContent: {
-                    name: 'Task 1',
-                    description: 'Description task 1',
-                    content: 'Content task 1',
-                    contentType: 'Task',
-                    creation: '16-02-2020'
+"task": [{
+                  "taskid": 1,
+                  "type": "Task",
+                  "creation": "16-02-2020",
+                  "modify": "16-02-2020",
+                  "priority": "High",
+                  "dificulty": "Intermediate",
+                  "status": "To do",
+                  "isDone": true,
+                  "taskContent": {
+                    "name": "Task 1",
+                    "description": "Description task 1",
+                    "content": "Content task 1",
+                    "contentType": "Task",
+                    "creation": "16-02-2020"
                   }
                  }, {
-                  taskid: 2,
-                  type: 'Task',
-                  creation: '16-02-2020',
-                  modify: '16-02-2020',
-                  priority: 'Low',
-                  dificulty: 'Basic',
-                  status: 'Done',
-                  isDone: true,
-                  taskContent: {
-                    name: 'Task 2',
-                    description: 'Description task 2',
-                    content: 'Content task 2',
-                    contentType: 'Task',
-                    creation: '16-02-2020'
+                  "taskid": 2,
+                  "type": "Task",
+                  "creation": "16-02-2020",
+                  "modify": "16-02-2020",
+                  "priority": "Low",
+                  "dificulty": "Basic",
+                  "status": "Done",
+                  "isDone": true,
+                  "taskContent": {
+                    "name": "Task 2",
+                    "description": "Description task 2",
+                    "content": "Content task 2",
+                    "contentType": "Task",
+                    "creation": "16-02-2020"
                   }
                  }, {
-                  taskid: 3,
-                  type: 'Task',
-                  creation: '16-02-2020',
-                  modify: '16-02-2020',
-                  priority: 'Medium',
-                  dificulty: 'Advance',
-                  status: 'In progress',
-                  isDone: true,
-                  taskContent: {
-                    name: 'Task 3',
-                    description: 'Description task 3',
-                    content: 'Content task 3',
-                    contentType: 'Task',
-                    creation: '16-02-2020'
+                  "taskid": 3,
+                  "type": "Task",
+                  "creation": "16-02-2020",
+                  "modify": "16-02-2020",
+                  "priority": "Medium",
+                  "dificulty": "Advance",
+                  "status": "In progress",
+                  "isDone": true,
+                  "taskContent": {
+                    "name": "Task 3",
+                    "description": "Description task 3",
+                    "content": "Content task 3",
+                    "contentType": "Task",
+                    "creation": "16-02-2020"
                   }
-                 }]
+                 }
+                ]
     } 
 }
